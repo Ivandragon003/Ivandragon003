@@ -4,6 +4,8 @@ Laureando in Informatica – Full‑Stack Developer
 
 📍 Napoli, Italia  
 📧 ivandefelice05@gmail.com  
+🔗 LinkedIn: [Ivan De Felice](linkedin.com/in/ivan-de-felice-a30936400)  
+
 💻 GitHub: [Ivandragon003](https://github.com/Ivandragon003)
 
 ---
