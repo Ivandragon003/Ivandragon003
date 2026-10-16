@@ -53,18 +53,15 @@ Gioco client-server in C con socket, thread, mutex e interfaccia CLI.
 🔹 [progetto-sql](https://github.com/Ivandragon003/progetto-sql)  
 Progetto PostgreSQL con query complesse, gestione dell’integrità dei dati e script di popolamento.
 
+🔹 [RegexRiddle](https://github.com/Ivandragon003/REGEXRIDDLE)  
+Applicazione full-stack per creare e risolvere sfide con espressioni regolari; Angular, NestJS, PostgreSQL e Docker.
+
 ---
 
 ## 🚀 Progetti Personali
 
-🔹 [MAC Documents Backend](https://github.com/Ivandragon003/generazione-documentale)  
-Backend NestJS e TypeScript per gestire template documentali e generare PDF/DOCX, con PostgreSQL, API REST e Docker.
-
-🔹 [RegexRiddle](https://github.com/Ivandragon003/REGEXRIDDLE)  
-Applicazione full-stack per creare e risolvere sfide con espressioni regolari; Angular, NestJS, PostgreSQL e Docker.
-
-🔹 [FootPredictor](https://github.com/Ivandragon003/scommeseSportive)  
-Progetto sperimentale di analisi statistica calcistica con modelli probabilistici e validazione walk-forward. I risultati sono a scopo educativo e non garantiscono rendimenti.
+🔹 [Mivumi](https://play.google.com/store/apps/details?id=app.mivumi)  
+App Android pubblicata per tenere traccia di film e serie, organizzare la watchlist e salvare progressi e valutazioni.
 
 ---
 ## 🔧 Altre Competenze
