@@ -1,17 +1,17 @@
 # Ivan De Felice
 
-Laureando in Informatica – Full‑Stack Developer
+Laureato in Informatica – Full‑Stack Developer
 
 📍 Napoli, Italia  
 📧 ivandefelice05@gmail.com  
-🔗 LinkedIn: [Ivan De Felice](linkedin.com/in/ivan-de-felice-a30936400)  
+🔗 LinkedIn: [Ivan De Felice](https://www.linkedin.com/in/ivan-de-felice-a30936400/)  
 💻 GitHub: [Ivandragon003](https://github.com/Ivandragon003)
 
 ---
 
 ## 🔥 Profilo
 
-Laureando in Informatica con forte interesse nello sviluppo full‑stack e applicazioni reali. Prediligo progetti concreti, backend robusto con architetture modulari e pattern OOP avanzati, frontend intuitivo e containerizzazione con Docker.
+Laureato in Informatica con forte interesse nello sviluppo full‑stack e applicazioni reali. Prediligo progetti concreti, backend robusto con architetture modulari e pattern OOP avanzati, frontend intuitivo e containerizzazione con Docker.
 Mi piace lavorare in team, affrontare problemi complessi e ottimizzare progetti esistenti con funzionalità, usabilità e stile.
 
 ---
@@ -22,7 +22,7 @@ Mi piace lavorare in team, affrontare problemi complessi e ottimizzare progetti 
 Percorso scientifico.
 
 **Università degli Studi di Napoli Federico II – Informatica**  
-Laureando
+Laureato
 
 ---
 
@@ -78,7 +78,7 @@ App Android pubblicata per tenere traccia di film e serie, organizzare la watchl
 ## 🌍 Lingue
 
 - Italiano: Madrelingua  
-- Inglese: Colloquiale
+- Inglese: Base
 
 ---
 
